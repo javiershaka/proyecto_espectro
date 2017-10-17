@@ -166,27 +166,8 @@ void loop() {
       pixels.show();
       delay(500);
       vidas --;
-
     }
-
-
-
   }
-
-
-
-
-
-
-
-
-
 }
 //for(int i=0;i<NUMPIXELS;i++){
 //}
-
-
-
-
-
-
